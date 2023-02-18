@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vote Counter</string>
+    <string name="donkey_ct_btn">Donkey</string>
+    <string name="elephant_ct_btn">Elephant</string>
+    <string name="clear_btn">Clear</string>
+</resources>
